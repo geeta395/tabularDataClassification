@@ -1,1 +1,2 @@
 # tabularDataClassification
+This is a small task to classify the tabular data. The approach is to use PCA over the given data to reduce dimension and improve quality of the data. In second step, we check the multicollinearity of the data and in third step, we use this clean data for classification, using the traditional machine learning methods like logistic regression, SVM, k-nearest neighbour and naiveBayes.
